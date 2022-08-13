@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "find_a_bug",
+  "address": "0xd9c0EF4FB4fa77Fa46Db08a955Ba5be0E43Bba8E",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/25"
+}
