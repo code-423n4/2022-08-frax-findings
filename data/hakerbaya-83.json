@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "hakerbaya",
+  "address": "0xd2bafa7f3ac35b38ca4a67e07cbbab1ac0f3796b",
+  "risk": "2",
+  "title": "No one can unpause the contract.",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/83"
+}
