@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "Jujic",
+  "address": "0x6e1da38f9d9d87ce228234a570d992d4db294fa1",
+  "risk": "2",
+  "title": "Should check return data from chainlink aggregators",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/89"
+}
