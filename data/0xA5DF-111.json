@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "0xA5DF",
+  "address": "0x04dfb55f65e89aaf26bf198ed87fb77a8a2b7260",
+  "risk": "2",
+  "title": "Penalty rate is used for pre-maturity date as well",
+  "issueId": 111,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/111"
+}
