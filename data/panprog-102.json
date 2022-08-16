@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "panprog",
+  "address": "0xf47974cad15c135445509ac670f531bbb9db5907",
+  "risk": "3",
+  "title": "Any borrower with bad debt can be liquidated multiple times to lock funds in the lending pair",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/102"
+}
