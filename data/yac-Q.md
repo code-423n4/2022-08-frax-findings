@@ -2,7 +2,7 @@
 
 ### Use of unbound array for `deployedPairsArray`
 
-**Severity**: Medium
+**Severity**: Low
 
 Context: [`FraxlendPairDeployer.sol#L96`](https://github.com/code-423n4/2022-08-frax/blob/c4189a3a98b38c8c962c5ea72f1a322fbc2ae45f/src/contracts/FraxlendPairDeployer.sol#L96)
 
