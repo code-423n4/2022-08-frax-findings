@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "cryptonue",
+  "address": "0xabcde0360abcba45098125e55437b005ae5df46f",
+  "risk": "2",
+  "title": "No Transfer Ownership Pattern",
+  "issueId": 231,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/231"
+}
