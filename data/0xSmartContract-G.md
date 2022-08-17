@@ -1166,7 +1166,7 @@ contract Contract1 {
 [FraxlendPairCore.sol#L472-L473](https://github.com/code-423n4/2022-08-frax/blob/main/src/contracts/FraxlendPairCore.sol#L472-L473)
 
 **Description:**
-Under the hood, solidity represents ≥ as not <. The extra not operation costs three gas
+Under the hood, solidity represents ≥ as not < The extra not operation costs three gas
 
 **Proof Of Concept**
 The optimizer was turned on and set to 10000 runs
@@ -1195,7 +1195,7 @@ contract Contract0 {
 
 contract Contract1 { 
     function dummy(uint256 amount) public {
-        require(amount < (2**128 + 1));
+        require(amount < (2**128 ));
     }
 }
 ```
