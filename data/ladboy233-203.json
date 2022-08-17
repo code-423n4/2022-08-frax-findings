@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "ladboy233",
+  "address": "0xe1faaeb0d29c9cf411cbd47daab14a21ebe266a4",
+  "risk": "2",
+  "title": "Design decision: Use TWAP Oracle set up and use customized oracle for FRAX",
+  "issueId": 203,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/203"
+}
