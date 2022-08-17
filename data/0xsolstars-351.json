@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "0xsolstars",
+  "address": "0x1DBdFB46085a17C3AdB146561EFE7b0e43a8B785",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 351,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/351"
+}
