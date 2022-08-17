@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "eierina",
+  "address": "0xf33c7ddf676e7bc589d7ab052a9739fa1354aa92",
+  "risk": "2",
+  "title": "No balance check before after transfer/transferFrom",
+  "issueId": 230,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/230"
+}
