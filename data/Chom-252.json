@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "3",
+  "title": "If `maxLTV == 0` case is used for allowing unlimited borrowing without any collateral, borrower whitelist must be enforced.",
+  "issueId": 252,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/252"
+}
