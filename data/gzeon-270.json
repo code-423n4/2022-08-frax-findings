@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "gzeon",
+  "address": "0x945d28df9779795bdab5bc6fdd9f36c0ef1f7190",
+  "risk": "2",
+  "title": "Oracle may return stale price",
+  "issueId": 270,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/270"
+}
