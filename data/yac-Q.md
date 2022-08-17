@@ -138,6 +138,24 @@ Emit event `UpdateRate` event.
 
 -----------------------
 
+### Clean liquidation fee should be dirty in `liquidate()` function
+
+**Severity**: Low
+
+Context: [`FraxlendPairCore.sol#L931`](https://github.com/code-423n4/2022-08-frax/blob/c4189a3a98b38c8c962c5ea72f1a322fbc2ae45f/src/contracts/FraxlendPairCore.sol#L931)
+
+The `liquidate()` function applies the clean liquidation fee with no checks for whether the liquidation was clean or dirty. It appears that `liquidate()` should use the `dirtyLiquidationFee` and that liquidators should only get the `cleanLiquidationFee` if they call `liquidateClean()` and satify the requirements of a clean liquidation.
+
+**Impact**: 
+
+Liquidators will use the liquidate function to get clean liquidation fees even if doing a dirty liquidation.
+
+**Recommendation**:
+
+Change `cleanLiquidationFee` to `dirtyLiquidationFee` at line 931 or revert for non-clean liquidations.
+
+-----------------------
+
 ### FraxlendPairCore Constructor missing @param natspec
 
 **Severity**: Informational
