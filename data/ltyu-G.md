@@ -1,0 +1,2 @@
+- In FraxlendPairDeployer.sol, DEFAULT_MAX_LTV, GLOBAL_MAX_LTV, DEFAULT_LIQ_FEE should be marked constant to save gas
+- In FraxlendPairDeployer.sol, CIRCUIT_BREAKER_ADDRESS, COMPTROLLER_ADDRESS, TIME_LOCK_ADDRESS should be marked immutable to save gas
