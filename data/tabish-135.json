@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "tabish",
+  "address": "0xd6fcd2f85fe975bb9b0f3c1b1c6802bb09d33e43",
+  "risk": "3",
+  "title": "Malicious Approved Lender can remove all other approved lenders effectively denying access to lending and liquidations",
+  "issueId": 135,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/135"
+}
