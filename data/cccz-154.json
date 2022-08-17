@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "cccz",
+  "address": "0x74d754378a59ab45d3e6cac83f0b87e8e8719270",
+  "risk": "2",
+  "title": "Users can create FraxlendPair with any asset and collateral",
+  "issueId": 154,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/154"
+}
