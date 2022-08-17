@@ -27,6 +27,19 @@ Zero address checking is the best practice to prevent the redeployment of the co
 
 Consider checking that anay of them is `== address(0)`.
 
+## [L-03] The use of `_mint()` is discouraged
+
+The use of `_safeMind()` instead of `_mint()` can prevent tokens from being lost and is from a documentation point of view a better practice.
+> https://github.com/OpenZeppelin/openzeppelin-contracts/blob/d4d8d2ed9798cc3383912a23b5e8d5cb602f7d4b/contracts/token/ERC721/ERC721.sol#L271
+
+2 instances: 
+
+ - https://github.com/code-423n4/2022-08-frax/blob/main/src/contracts/FraxlendPairCore.sol#L487
+ - https://github.com/code-423n4/2022-08-frax/blob/main/src/contracts/FraxlendPairCore.sol#L570
+
+ 
+ Consider replacing `_mint()` by `_safemind()`.
+
 # Non Critical
 
 ## [N-01] Typo.
