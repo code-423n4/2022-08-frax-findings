@@ -226,14 +226,14 @@ File: contracts/FraxlendPairCore.sol
 772:        userCollateralBalance[_borrower] += _collateralAmount;
 773:        totalCollateral += _collateralAmount;
 ```
-https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPair.sol#L475
-https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPair.sol#L476
-https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPair.sol#L484
-https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPair.sol#L566
-https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPair.sol#L567
-https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPair.sol#L718
-https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPair.sol#L719
-https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPair.sol#L724
-https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPair.sol#L772
-https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPair.sol#L773
+https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPairCore.sol#L475
+https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPairCore.sol#L476
+https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPairCore.sol#L484
+https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPairCore.sol#L566
+https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPairCore.sol#L567
+https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPairCore.sol#L718
+https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPairCore.sol#L719
+https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPairCore.sol#L724
+https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPairCore.sol#L772
+https://github.com/FraxFinance/fraxlend/blob/main/src/contracts/FraxlendPairCore.sol#L773
 
