@@ -1,4 +1,5 @@
 1. FraxlendPairCore should inherit IFraxlendPair
+FraxlendPairCore contract does not import and inherit functions that it makes use of which are defined in IFraxlendPair contract
 
 
 2. Missing zero address check
