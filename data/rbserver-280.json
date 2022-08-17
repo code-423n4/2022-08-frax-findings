@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "3",
+  "title": "Calling borrowAsset function with 0 _collateralAmount can borrow asset tokens without providing any collateral tokens",
+  "issueId": 280,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/280"
+}
