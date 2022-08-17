@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "0xmatt",
+  "address": "0xE6d324a6B7904160ACEa6144cc80809dbF337F55",
+  "risk": "2",
+  "title": "ERC20 Fees On Transfer May Result In Incorrect Deposit Values",
+  "issueId": 192,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/192"
+}
