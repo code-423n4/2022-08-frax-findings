@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "SooYa",
+  "address": "0xd9c055ebb562056fc195a254da53ce92ef60c359",
+  "risk": "2",
+  "title": "BORROWER CAN BORROW ASSET FROM HIMSELF AND GET THE SHARES",
+  "issueId": 353,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/353"
+}
