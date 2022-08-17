@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "3",
+  "title": "`maxLTV == 0` shouldn't be solvent but currently always solvent, so borrower can borrow all assets without any collateral.",
+  "issueId": 243,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/243"
+}
