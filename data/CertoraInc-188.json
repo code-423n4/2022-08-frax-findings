@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "CertoraInc",
+  "address": "0x09A9af114843218a7446929b1183eBec373B2827",
+  "risk": "2",
+  "title": "architectal issue enable users to take unsafe loans",
+  "issueId": 188,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/188"
+}
