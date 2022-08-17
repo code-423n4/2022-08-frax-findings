@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "SaharAP",
+  "address": "0x08194Da52aaaB95fb8d7618dd7c312cF3217D0e7",
+  "risk": "3",
+  "title": "Unexpected revert: Divide by zero",
+  "issueId": 119,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/119"
+}
