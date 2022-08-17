@@ -46,6 +46,10 @@ FraxlendPairCore.sol
 
 [FRAXLEND_WHITELIST_ADDRESS = _fraxlendWhitelistAddress;](https://github.com/code-423n4/2022-08-frax/blob/main/src/contracts/FraxlendPairCore.sol#L175)
 
+[assetContract = IERC20(_asset);](https://github.com/code-423n4/2022-08-frax/blob/main/src/contracts/FraxlendPairCore.sol#L190)
+
+[collateralContract = IERC20(_collateral);](https://github.com/code-423n4/2022-08-frax/blob/main/src/contracts/FraxlendPairCore.sol#L191)
+
 #### Mitigation
 Add zero address checks inside the constructor for the instances mentioned above.
 
