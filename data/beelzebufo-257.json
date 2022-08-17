@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "beelzebufo",
+  "address": "0xaa6ef0c162c48556722ccbe6a21cbfd9c3472686",
+  "risk": "3",
+  "title": "Approved lenders and borrowers can cause DOS of the protocol",
+  "issueId": 257,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/257"
+}
