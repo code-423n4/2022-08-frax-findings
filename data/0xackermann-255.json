@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "0xackermann",
+  "address": "0x1f327224c77cd15dedb2c063f25cc0d2151933d3",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 255,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/255"
+}
