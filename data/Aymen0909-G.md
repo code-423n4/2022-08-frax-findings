@@ -25,7 +25,7 @@ Saves a storage slot for the mapping. Depending on the circumstances and sizes o
 There are 2 instances of this issue :
 
 ```
-File: contracts/VotingEscrow.sol
+File: contracts/FraxlendPairCore.sol
 
 127      mapping(address => uint256) public userCollateralBalance;
 129      mapping(address => uint256) public userBorrowShares;
