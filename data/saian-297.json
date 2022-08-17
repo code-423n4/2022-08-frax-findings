@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "saian",
+  "address": "0x41866fbd59371800a7a6a2e314641cd69cd7247d",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 297,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/297"
+}
