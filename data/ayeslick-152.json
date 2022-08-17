@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "ayeslick",
+  "address": "0x7ccdb6979cb9dfa867b842fae8243b3b3fda444d",
+  "risk": "2",
+  "title": "A malicious borrower/lender could either add or remove other borrowers/lenders from the approvedBorrowers/approvedLenders mapping ",
+  "issueId": 152,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/152"
+}
