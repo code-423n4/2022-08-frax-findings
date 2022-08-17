@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "yac",
+  "address": "0x26CBbd3C29fa85A0C97269a556324bAcfA23d8f4",
+  "risk": "3",
+  "title": "Using whitelists for DoS attack",
+  "issueId": 258,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/258"
+}
