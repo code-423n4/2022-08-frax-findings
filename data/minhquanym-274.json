@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "minhquanym",
+  "address": "0x616e6ec41be589c7cd08ee9e2fe8dd0eaddd8941",
+  "risk": "3",
+  "title": "Wrong value of `dirtyLiquidationFee` during construction leads to wrong calculation and liquidators might receive less amount of collateral",
+  "issueId": 274,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/274"
+}
