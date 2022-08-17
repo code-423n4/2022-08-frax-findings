@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "francoHacker",
+  "address": "0x06b2c7185a2ce602612a8b465059c8463fe85d13",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 127,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/127"
+}
