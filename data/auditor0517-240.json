@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "auditor0517",
+  "address": "0x0fcf87f1ca8ea435f2517880a33329005c464127",
+  "risk": "2",
+  "title": "`FraxlendPairCore.addCollateral()` should check if `_borrower` is approved.",
+  "issueId": 240,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/240"
+}
