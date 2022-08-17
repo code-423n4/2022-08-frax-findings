@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "async",
+  "address": "0x7841f2064bbaf90127ca0eed5b004020bf9ca819",
+  "risk": "2",
+  "title": "Chainlink's `latestRoundData` might return stale or incorrect results",
+  "issueId": 115,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/115"
+}
