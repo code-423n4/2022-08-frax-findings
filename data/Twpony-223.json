@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "Twpony",
+  "address": "0x8f66af4fecfef97f4e3edd758e9f14ce098eec77",
+  "risk": "3",
+  "title": "LinearInterestRate mode has the risk of drastic fluctuation of `interestRate` by flash borrow attack,  make borrower pay more interest",
+  "issueId": 223,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/223"
+}
