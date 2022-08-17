@@ -1,0 +1,9 @@
+{
+  "contest": 153,
+  "handle": "EthLedger",
+  "address": "0x954411c24db597aa34f9017f6affc9e7a6a563f6",
+  "risk": "3",
+  "title": "Different SafeERC20 contracts are being used",
+  "issueId": 287,
+  "issueUrl": "https://github.com/code-423n4/2022-08-frax-findings/issues/287"
+}
