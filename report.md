@@ -1,3 +1,11 @@
+---
+sponsor: "Frax Finance"
+slug: "2022-08-frax"
+date: "2023-01-13"
+title: "Fraxlend (Frax Finance) contest"
+findings: "https://github.com/code-423n4/2022-08-frax-findings/issues"
+contest: 153
+---
 
 # Overview
 
